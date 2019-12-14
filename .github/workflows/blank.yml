@@ -1,15 +1,1 @@
-    name: BB
-
-  c jobs: gamer
-
-      on:I'm trying to find a good lubricant for the (TACTICOOL 5x5 panzerdog) game to get rid of the game bugs.  I invite you to the toughest hacking challenge in your life, so far no hacker or human has been able to hack the TACTICOOL 5x5 PANZERDOG game, so this can be a great launching pad for you if you so desire.  , I also give the first people the best file hacked, a gift card 5$ or 10$ Google play as a gift 
-
-   build: 
-
- runs-on: ubuntu-latest
-
-   steps:
- - uses : actions/checkout@v1
- - name : Run a one-line script
-   run  : echo Hello, world!
-    
+HI WOULD 
